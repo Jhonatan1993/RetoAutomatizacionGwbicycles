@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Verificar el formulario Block Validation" skipped="0" tests="2" time="7.93" timestamp="2021-12-18 07:43:37"><testcase name="visualiza los productos exitosamente"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+retoFinal.taks.Abrir.performAs(Abrir.java:18)&#13;
+retoFinal.stepdefinitions.EscenarioExitosoFallidoStepDefinitios.jhonatanIngresaALaPagina(MyStepdefs1.java:53)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase><testcase name="visualiza los productos de manera fallida"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+retoFinal.taks.Abrir.performAs(Abrir.java:18)&#13;
+retoFinal.stepdefinitions.EscenarioExitosoFallidoStepDefinitios.jhonatanIngresaALaPagina(MyStepdefs1.java:53)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

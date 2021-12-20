@@ -22,9 +22,7 @@ Estas descripciones funcionales se escriben en un lenguaje específico de domini
 > El patrón de screenplay tiene un enfoque de desarrollo encaminado por comportamiento Behaviour Driven Development (BDD). Esta no es una herramienta para testing sino una estrategia de desarrollo que se enfoca en prevenir defectos en lugar de encontrarlos en un ambiente controlado, tal y como se explica en el artículo BDD para la automatización de pruebas
 > >Ref: (https://www.pragma.com.co/academia/lecciones/conceptos-basicos-para-una-ejecucion-en-screenplay)
 
-> ### 
->
-> >Ref: ()
+
 ## IntelliJ, IDE ultilizado para el desarrollo
 `IntelliJ IDEA es un IDE inteligente y sensible al contexto para trabajar con Java y otros lenguajes JVM como Kotlin, Scala y Groovy en todo tipo de aplicaciones. Además, IntelliJ IDEA Ultimate puede ayudarle a desarrollar aplicaciones web de pila completa, gracias a sus potentes herramientas integradas, compatibilidad con JavaScript y tecnologías relacionadas, y compatibilidad avanzada con marcos de trabajo populares como Spring, Spring Boot, Jakarta EE, Micronaut, Quarkus y Helidon. Además, puede ampliar IntelliJ IDEA con complementos gratuitos desarrollados por JetBrains, lo que le permite trabajar con otros lenguajes de programación, como Go, Python, SQL, Ruby o PHP.`
 > Ref: (https://www.jetbrains.com/es-es/idea/)
